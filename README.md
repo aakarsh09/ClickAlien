@@ -1,2 +1,2 @@
 # ClickAlien
-https://3dcubestudios.github.io/ClickAlien/
+https://aakarsh09.github.io/ClickAlien/
